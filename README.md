@@ -1,5 +1,7 @@
 # nodejs_sample_app
 
+English 1st,Japanese 2nd.
+
 # Prerequisites
 
 - The stable version of node must be installed in the application execution environment.
