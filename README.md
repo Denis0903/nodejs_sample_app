@@ -8,11 +8,11 @@ English 1st,Japanese 2nd.
 
 # Environment
 
-- node modules are downloaded when you run npm install express ejs under the root directory
+- node modules are downloaded when you run "npm install express ejs" under the root directory
 
 # Execution method
 
-- Launch the app with node app.js
+- Launch the app with "node app.js"
 - When you access the right, you will be taken to the application screen (needless to say, Chrome is recommended) http: // localhost: 3000 /
 
 # Description of each folder
